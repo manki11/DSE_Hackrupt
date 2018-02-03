@@ -1,4 +1,5 @@
 pragma solidity ^0.4.18;
+
 contract owned {
     address owner;
     function owned() public{
@@ -82,11 +83,11 @@ contract DSE is owned {
         return (temp.length);
     }
 
-    // function sellStock(bytes16 _company_name, uint _count, address _seller) constant public returns(bytes16, uint, address){
-    //     var seller= users[_seller];
-
-    //     require(seller.stocks[_company_name]> _count);
-
-    //     return (_company_name, _count, _seller);
-    // }
+//     function sellStock(bytes16 _company_name, uint _count, address _seller) constant public returns(bytes16, uint, address){
+//         var seller= users[_seller];
+//
+//         require(seller.stocks[_company_name]> _count);
+//
+//         return (_company_name, _count, _seller);
+//     }
 }
