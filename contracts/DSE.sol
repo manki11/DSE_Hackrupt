@@ -1,4 +1,4 @@
-pragma solidity ^0.4.19;
+pragma solidity ^0.4.18;
 
 
 contract owned {
@@ -103,12 +103,12 @@ contract DSE is owned {
         addStockEvent(_company_name,_count,_price);
     }
 
-    function getNoOfStockOfUser(address _address) view public returns (uint){
+    function getNoOfStockOfUser(address _address) constant public returns (uint){
         var user = users[_address];
         return user.company_names.length;
     }
 
-    function getStock(address _address, uint i) view public returns (bytes16){
+    function getStock(address _address, uint i) constant public returns (bytes16){
         var user = users[_address];
         bytes16 company_name= user.company_names[i];
         return company_name;
@@ -143,7 +143,7 @@ contract DSE is owned {
         return (_company_name, _count, _seller, _price);
     }
 
-    function getSellingList() constant public returns (Sell_Stock[]){
+    function getSellingList()  public returns (Sell_Stock[]){
         return sellingList;
     }
 }
