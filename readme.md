@@ -18,7 +18,7 @@ By developing a decentralized stock change all transactions on the chain will pe
 
 ![Alt text](images/DSE_change.png?raw=true)
 
-![Alt text](images/DSE_trading?raw=true)
+![Alt text](images/DSE_trading.png?raw=true)
 
 
 #### Steps to run project ####
