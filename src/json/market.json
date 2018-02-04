@@ -1,0 +1,112 @@
+{
+  "market":[
+    {
+      "seller":"",
+      "name":"Google",
+      "Price":"5 ether",
+      "amount":10
+    },
+    {
+      "seller":"",
+      "name":"Google",
+      "Price":"5 ether",
+      "amount":10
+    },
+    {
+      "seller":"",
+      "name":"Reliance Inc",
+      "Price":"1 ether",
+      "amount":500
+    },
+    {
+      "seller":"",
+      "name":"Microsoft",
+      "Price":"2 ether",
+      "amount":50
+    },
+    {
+      "seller":"",
+      "name":"Microsoft",
+      "Price":"2 ether",
+      "amount":50
+    },
+    {
+      "seller":"",
+      "name":"Microsoft",
+      "Price":"2 ether",
+      "amount":50
+    },
+    {
+      "seller":"",
+      "name":"Apple",
+      "Price":"10 ether",
+      "amount":5
+    },
+    {
+      "seller":"",
+      "name":"Tesla",
+      "Price":"3 ether",
+      "amount":10
+    },
+    {
+      "seller":"",
+      "name":"Tesla",
+      "Price":"3 ether",
+      "amount":10
+    },
+    {
+      "seller":"",
+      "name":"TCS",
+      "Price":".09 ether",
+      "amount":1000
+    },
+    {
+      "seller":"",
+      "name":"Bajaj Finance",
+      "Price":".07 ether",
+      "amount":10000
+    },
+    {
+      "seller":"",
+      "name":"Coal India",
+      "Price":".10 ether",
+      "amount":900
+    },
+    {
+      "seller":"",
+      "name":"Coal India",
+      "Price":".10 ether",
+      "amount":900
+    },
+    {
+      "seller":"",
+      "name":"Coal India",
+      "Price":".10 ether",
+      "amount":900
+    },
+    {
+      "seller":"",
+      "name":"Coal India",
+      "Price":".10 ether",
+      "amount":900
+    },
+    {
+      "seller":"",
+      "name":"Nestle",
+      "Price":".09 ether",
+      "amount":10000
+    },
+    {
+      "seller":"",
+      "name":"Nestle",
+      "Price":".09 ether",
+      "amount":10000
+    },
+    {
+      "seller":"",
+      "name":"Nestle",
+      "Price":".09 ether",
+      "amount":10000
+    }
+  ]
+}

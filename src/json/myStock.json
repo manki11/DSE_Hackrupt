@@ -1,0 +1,24 @@
+{
+  "myStock":[
+    {
+      "name":"Google",
+      "Price":"5 ether",
+      "amount":30
+    },
+    {
+      "name":"Apple",
+      "Price":"4 ether",
+      "amount":10
+    },
+    {
+      "name":"Microsoft",
+      "Price":"2 ether",
+      "amount":60
+    },
+    {
+      "name":"Amazon",
+      "Price":"10 ether",
+      "amount":70
+    }
+  ]
+}
